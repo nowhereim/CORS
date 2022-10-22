@@ -1,0 +1,2 @@
+# CORS
+CORS prac
